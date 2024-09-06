@@ -1,5 +1,14 @@
-## Hi there 👋
+## Anish M George 👋
 
+### About Me
+**Website** <www.saintgits.org>
+
+Its me Anish M George
+
+## Workshops Attended
+- Faculty Development Programme *Instructional Design for Python Programming*
+
+### Mathematics
 <!--
 **anishmgeorge07/anishmgeorge07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
